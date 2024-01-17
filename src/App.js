@@ -1,4 +1,23 @@
-import { useEffect, useState } from "react";
+
+// Basic usage of useRef
+// import { useRef } from "react";
+// function App() {
+//   const input = useRef("");
+
+//   function inputText() {
+//     input.current.focus();
+//     input.current.value = "Type something";
+//   }
+
+//   return (
+//     <>
+//     <input type="text" ref={input} />
+//     <button onClick={inputText}>Button</button>
+//     </>
+//   )
+// };
+// export default App;
+
 
 // Basic usage of useReducer
 // import { useReducer } from "react";
