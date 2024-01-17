@@ -1,4 +1,3 @@
-
 // Basic usage of useRef
 // import { useRef } from "react";
 // function App() {
@@ -71,7 +70,6 @@
 //     }
 //     getData();
 //   }, []);
-
 //   return (
 //     <>
 //     <ul>
